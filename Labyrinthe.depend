@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670238606 source:h:\home\bureau\tp prog - projet 5 labyrinthe\labyrinthe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
